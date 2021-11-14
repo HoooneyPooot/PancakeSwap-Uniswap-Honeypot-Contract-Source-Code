@@ -5,6 +5,7 @@ This is the source code for multiple versions of honeypot contracts that are con
 ## FEATURES
 
 -   Notes on Execution
+-   Auto deploy - you can run a script to create multiple contracts out of this contract with different variables (name, supply etc) - this allows you to release multiple honeypots within seconds to trick users
 -   Contract will send all tokens to your wallet
 -   Create Liquidity (ex. All tokens for xx bnb)
 -   Be First Buyer (x BNB) (or just leave some tokens to yourself in previous step)
